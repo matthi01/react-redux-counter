@@ -5,6 +5,9 @@
  - Run "npm install" in the project folder
  - Run "npm start" to view the project
  
+ Different actions for changing the counter, to remove any stored values click the item to remove in the list.
+ 
+ 
 Playing around and learning about the implementation of redux into react
  - getting familiar with the flow of redux compared to local react state
  - setting up store
